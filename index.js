@@ -47,3 +47,4 @@ if (Number.isInteger(numeroString))
 
 console.log(numeroReal.toString());
 console.log(resultado);
+// Test
